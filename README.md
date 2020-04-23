@@ -17,9 +17,9 @@ A visualization tool of some 3d human models(smpl/smplx/flame), also supports ed
 - clone this repo
 	- `git clone https://github.com/Lemon-XQ/human_model_viewer`
 - **download models** and **edit model path** in `human_model_viewer/ui/util.py`
-	- smpl: [https://smpl.is.tue.mpg.de/]()
-	- smplx: [https://smpl-x.is.tue.mpg.de/]()
-	- flame: [http://flame.is.tue.mpg.de]()
+	- smpl: [https://smpl.is.tue.mpg.de/](https://smpl.is.tue.mpg.de)
+	- smplx: [https://smpl-x.is.tue.mpg.de/](https://smpl-x.is.tue.mpg.de/)
+	- flame: [http://flame.is.tue.mpg.de](http://flame.is.tue.mpg.de)
 ## Usage
 - run `python smpl_viewer.py` or directly double click `human_model_viewer.bat` (only if you are WINDOWS user)
 - **GUI operations:**
